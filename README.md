@@ -1,7 +1,7 @@
 # Twitter Sentiment Analysis Project
 
 ## Project Images
-![Before Input](Twitter Text Analysis/Before_input.png)
+![Before Input](Twitter%20Text%20Analysis/Before_input.png)
 
 
 ## Overview
@@ -31,6 +31,6 @@ The project consists of two main files:
   streamlit run app.py
   Enter a Twitter text in the input area.
   Click the "Predict" button to see the predicted sentiment.
-![After Input](Twitter Text Analysis/after_input.png)
+![After Input](Twitter%20Text%20Analysis/after_input.png)
 ## Data Used
 The Twitter data used for training is sourced from 'Twitter_Data.csv'. Ensure that the dataset is available in the project directory.
